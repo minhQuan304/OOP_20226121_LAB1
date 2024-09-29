@@ -1,0 +1,2 @@
+Chọn “Cancel”, hành động lưu lại tài nguyên sẽ bị hủy bỏ. Điều này có nghĩa là bất kỳ thay đổi nào chưa được lưu sẽ không được thực hiện.
+Để tùy chỉnh các tùy chọn cho người dùng, bạn có thể sử dụng JOptionPane
